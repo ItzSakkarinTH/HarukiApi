@@ -25,7 +25,7 @@ export default function Home() {
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-300 text-center mb-12">
-            RESTful API สำหรับจัดการข้อมูลสินค้าและหมวดหมู่
+            RESTful API สำหรับการจัดข้อมูลสินค้าและหมวดหมู่
           </p>
 
           {/* Features Grid */}
